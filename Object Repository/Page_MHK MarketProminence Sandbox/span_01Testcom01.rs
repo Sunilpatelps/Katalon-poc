@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_01Testcom01</name>
+   <tag></tag>
+   <elementGuidId>e7ea4c58-fb0a-48a5-ab2b-b83bf291d55e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#5f2c9f95-2306-47e0-a0ff-004d2096aa6d-Lan > span.template.text-overflow-ellipsis.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='5f2c9f95-2306-47e0-a0ff-004d2096aa6d-Lan']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f4b2710a-5aeb-4597-a1fd-b097abea5b60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>template text-overflow-ellipsis ng-star-inserted</value>
+      <webElementGuid>6d0eb6b4-b1bb-4c8a-a537-fca323f9359f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>01Testcom01</value>
+      <webElementGuid>974a9532-2754-499a-94ba-3f68e625aed4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>01Testcom01</value>
+      <webElementGuid>b3f17f8b-e3ff-485b-b543-a763e74d92a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;5f2c9f95-2306-47e0-a0ff-004d2096aa6d-Lan&quot;)/span[@class=&quot;template text-overflow-ellipsis ng-star-inserted&quot;]</value>
+      <webElementGuid>1b7bc018-dca5-4b44-92ce-1f35e768021a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='5f2c9f95-2306-47e0-a0ff-004d2096aa6d-Lan']/span</value>
+      <webElementGuid>b7126864-d96e-4232-b002-5d9acfc3cd06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TEST DATA'])[1]/following::span[1]</value>
+      <webElementGuid>49a39917-53b1-464f-a118-6ceda682d1f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WEB_SANDBOX DB Version 2021.3 Build 3602'])[1]/following::span[2]</value>
+      <webElementGuid>675c1183-f898-47d9-b18f-07fe5153215c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TEST Program'])[1]/preceding::span[16]</value>
+      <webElementGuid>507a894a-f385-4896-bf0b-2bad14d52dfa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='P01 - Open Panel Providers'])[1]/preceding::span[19]</value>
+      <webElementGuid>87ef08b8-46c8-4cc1-918d-31c7edd906ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='01Testcom01']/parent::*</value>
+      <webElementGuid>e4a16db1-e8a0-47f4-84f9-a60d6578a316</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/span</value>
+      <webElementGuid>822e4d9e-529a-45ce-bd95-ca6a11da3cf5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@title = '01Testcom01' and (text() = '01Testcom01' or . = '01Testcom01')]</value>
+      <webElementGuid>8f3466fb-df2e-4f09-bf8a-7077a8a6eade</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

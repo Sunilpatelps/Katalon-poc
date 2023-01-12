@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Add_Affiliation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a5132fa8-12b1-4657-94b3-78431b4ab1d9</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>80378aae-2e84-47c8-b044-b5ab4fceb9ac</id>
+      <iterationEntity>
+         <iterationType>RANGE</iterationType>
+         <value>1-1</value>
+      </iterationEntity>
+      <testDataId>Data Files/Exceldata</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>80378aae-2e84-47c8-b044-b5ab4fceb9ac</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>url</value>
+      <variableId>d361d4b6-b19e-464b-8e72-8873c2ca5911</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>80378aae-2e84-47c8-b044-b5ab4fceb9ac</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>username</value>
+      <variableId>e3b0a9e5-fff7-4a52-b6f9-222f46f6e7b6</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>80378aae-2e84-47c8-b044-b5ab4fceb9ac</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>password</value>
+      <variableId>5f35d45a-4472-4835-82b0-4b1549de8b4f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d361d4b6-b19e-464b-8e72-8873c2ca5911</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e3b0a9e5-fff7-4a52-b6f9-222f46f6e7b6</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5f35d45a-4472-4835-82b0-4b1549de8b4f</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

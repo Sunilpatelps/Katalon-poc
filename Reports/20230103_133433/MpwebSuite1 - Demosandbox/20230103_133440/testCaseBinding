@@ -1,0 +1,2 @@
+{"testCaseName":"Test Cases/LoginTestcase","testCaseId":"Test Cases/LoginTestcase","iterationVariableName":"","bindedValues":{"password":"\u0027mp0292\u0027","url":"\u0027https://mpwebsandbox.mhkdevsandbox.com/\u0027","username":"\u0027DZCPS\u0027"}}
+{"testCaseName":"Test Cases/LoginTestcase","testCaseId":"Test Cases/LoginTestcase","iterationVariableName":"","bindedValues":{"password":"\u0027mp0292\u0027","url":"\u0027https://mpwebdemo.mhkdevsandbox.com\u0027","username":"\u0027DZCPS\u0027"}}

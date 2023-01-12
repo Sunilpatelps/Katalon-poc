@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Site_k-button-icon k-icon k-i-arrow-s</name>
+   <tag></tag>
+   <elementGuidId>5d12c290-654f-40a1-993d-65e0a631f78a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//kendo-dropdownlist[@id='k-39b55275-ef42-4250-bdc8-e42a97ab409b']/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#k-39b55275-ef42-4250-bdc8-e42a97ab409b > button.k-input-button.k-button.k-icon-button.k-button-md.k-button-solid.k-button-solid-base > span.k-button-icon.k-icon.k-i-arrow-s</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>bed4a8da-e3bc-4feb-9eff-12e4db96b408</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>unselectable</name>
+      <type>Main</type>
+      <value>on</value>
+      <webElementGuid>f20465be-1ebd-49db-bf28-51618e470bc9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-button-icon k-icon k-i-arrow-s</value>
+      <webElementGuid>be7b7760-99b7-4172-8989-8d4d83794a45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;k-39b55275-ef42-4250-bdc8-e42a97ab409b&quot;)/button[@class=&quot;k-input-button k-button k-icon-button k-button-md k-button-solid k-button-solid-base&quot;]/span[@class=&quot;k-button-icon k-icon k-i-arrow-s&quot;]</value>
+      <webElementGuid>08494e2d-129f-4cd7-a674-0bd449509eab</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//kendo-dropdownlist[@id='k-39b55275-ef42-4250-bdc8-e42a97ab409b']/button/span</value>
+      <webElementGuid>fd6065af-8572-4a39-82b9-4d36a05e7742</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mp-input-container[5]/div/div/table/tr/td/div/mp-drop-down/div/table/tr[2]/td/div/table/tr/td/kendo-dropdownlist/button/span</value>
+      <webElementGuid>a02df832-9862-4e86-a4f6-c9d3c831bf0a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

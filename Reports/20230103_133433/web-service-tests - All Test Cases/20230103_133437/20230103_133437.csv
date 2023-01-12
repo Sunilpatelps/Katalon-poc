@@ -1,0 +1,12 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+web-service-tests - All Test Cases,Edge Chromium 108,,,2023-01-03 13:35:19,2023-01-03 13:37:08,1m - 49.307s,PASSED
+,,,,,,,
+Test Cases/Create a new user,Edge Chromium 108,,,2023-01-03 13:35:22,2023-01-03 13:36:12,50.154s,PASSED
+"openBrowser("""")",Edge Chromium 108,,,2023-01-03 13:35:30,2023-01-03 13:36:04,34.043s,PASSED
+closeBrowser(),Edge Chromium 108,,,2023-01-03 13:36:04,2023-01-03 13:36:10,5.830s,PASSED
+Video,Edge Chromium 108,,,2023-01-03 13:36:12,2023-01-03 13:36:12,0.006s,PASSED
+,,,,,,,
+Test Cases/Find user by ID,Edge Chromium 108,,,2023-01-03 13:36:13,2023-01-03 13:37:08,55.844s,PASSED
+"id = sample.Common.createNewUser(age, username, password, gender, 200)",Edge Chromium 108,,,2023-01-03 13:36:26,2023-01-03 13:36:57,31.405s,PASSED
+"sample.Common.findUserById(id, age, username, password, gender, 200)",Edge Chromium 108,,,2023-01-03 13:36:57,2023-01-03 13:37:06,9.076s,PASSED
+Video,Edge Chromium 108,,,2023-01-03 13:37:08,2023-01-03 13:37:08,0.002s,PASSED

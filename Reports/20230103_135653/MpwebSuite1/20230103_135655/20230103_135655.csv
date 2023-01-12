@@ -1,0 +1,80 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+MpwebSuite1,Chrome 108.0.0.0,,,2023-01-03 13:57:26,2023-01-03 14:03:41,6m - 15.617s,PASSED
+,,,,,,,
+Test Cases/Add_Affiliation,Chrome 108.0.0.0,,,2023-01-03 13:57:28,2023-01-03 14:03:41,6m - 13.645s,PASSED
+"callTestCase(findTestCase(""LoginTestcase""), [""url"":url, ""username"":username, ""password"":password], CONTINUE_ON_FAILURE)",Chrome 108.0.0.0,,,2023-01-03 13:57:31,2023-01-03 13:58:27,56.082s,PASSED
+"click(findTestObject(""Object Repository/Page_MHK MarketProminence Sandbox/a_MarketProminence_mpweb-navbar-icon-button_1cdd27""))",Chrome 108.0.0.0,,,2023-01-03 13:58:27,2023-01-03 13:58:36,8.443s,PASSED
+"click(findTestObject(""Object Repository/Page_MHK MarketProminence Sandbox/a_Setup""))",Chrome 108.0.0.0,,,2023-01-03 13:58:36,2023-01-03 13:58:39,3.112s,PASSED
+"click(findTestObject(""Object Repository/Page_MHK MarketProminence Sandbox/a_Action""))",Chrome 108.0.0.0,,,2023-01-03 13:58:39,2023-01-03 13:59:01,21.978s,PASSED
+"click(findTestObject(""Object Repository/Page_MHK MarketProminence Sandbox/selectAffiliation""))",Chrome 108.0.0.0,,,2023-01-03 13:59:01,2023-01-03 13:59:03,2.126s,PASSED
+maximizeWindow(),Chrome 108.0.0.0,,,2023-01-03 13:59:03,2023-01-03 13:59:05,1.780s,PASSED
+"click(findTestObject(""Object Repository/Page_MHK MarketProminence Sandbox/button_Add""))",Chrome 108.0.0.0,,,2023-01-03 13:59:05,2023-01-03 13:59:15,10.430s,PASSED
+"setText(findTestObject(""Object Repository/Page_MHK MarketProminence Sandbox/input_Primary_affiliation""), ""staff user"")",Chrome 108.0.0.0,,,2023-01-03 13:59:15,2023-01-03 13:59:21,5.930s,PASSED
+"click(findTestObject(""Object Repository/Page_MHK MarketProminence Sandbox/input_Secondary_affiliation""))",Chrome 108.0.0.0,,,2023-01-03 13:59:21,2023-01-03 13:59:23,2.058s,PASSED
+"setText(findTestObject(""Object Repository/Page_MHK MarketProminence Sandbox/input_Secondary_affiliation""), ""user1"")",Chrome 108.0.0.0,,,2023-01-03 13:59:23,2023-01-03 13:59:28,5.045s,PASSED
+"click(findTestObject(""Object Repository/Page_MHK MarketProminence Sandbox/input_Lan_assignedPrograms-SELECTED-row-2-col-0""))",Chrome 108.0.0.0,,,2023-01-03 13:59:28,2023-01-03 13:59:30,2.004s,PASSED
+"click(findTestObject(""Object Repository/Page_MHK MarketProminence Sandbox/input_M03_assignedPrograms-SELECTED-row-3-col-0""))",Chrome 108.0.0.0,,,2023-01-03 13:59:30,2023-01-03 13:59:32,1.751s,PASSED
+"click(findTestObject(""Object Repository/Page_MHK MarketProminence Sandbox/button_Save""))",Chrome 108.0.0.0,,,2023-01-03 13:59:32,2023-01-03 13:59:34,1.989s,PASSED
+"click(findTestObject(""Object Repository/Page_MHK MarketProminence Sandbox/span_staff user (1)""))",Chrome 108.0.0.0,,,2023-01-03 13:59:34,2023-01-03 13:59:53,18.750s,PASSED
+"click(findTestObject(""Object Repository/Page_MHK MarketProminence Sandbox/button_Add""))",Chrome 108.0.0.0,,,2023-01-03 13:59:53,2023-01-03 13:59:55,2.359s,PASSED
+"click(findTestObject(""Object Repository/Page_MHK MarketProminence Sandbox/span_Primary_k-button-icon k-icon k-i-arrow-s""))",Chrome 108.0.0.0,,,2023-01-03 13:59:55,2023-01-03 13:59:57,1.730s,PASSED
+"setText(findTestObject(""Object Repository/Page_MHK MarketProminence Sandbox/input_Primary_affiliation""), ""staff user"")",Chrome 108.0.0.0,,,2023-01-03 13:59:57,2023-01-03 13:59:58,1.585s,PASSED
+"setText(findTestObject(""Object Repository/Page_MHK MarketProminence Sandbox/input_Secondary_affiliation""), ""user2"")",Chrome 108.0.0.0,,,2023-01-03 13:59:58,2023-01-03 14:00:00,1.917s,PASSED
+"click(findTestObject(""Object Repository/Page_MHK MarketProminence Sandbox/input_M03_assignedPrograms-SELECTED-row-3-col-0""))",Chrome 108.0.0.0,,,2023-01-03 14:00:00,2023-01-03 14:00:02,1.126s,PASSED
+"click(findTestObject(""Object Repository/Page_MHK MarketProminence Sandbox/button_Save""))",Chrome 108.0.0.0,,,2023-01-03 14:00:02,2023-01-03 14:00:03,1.076s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_MHK MarketProminence Sandbox/div_Successfully saved Affiliation""), ""Successfully saved Affiliation."")",Chrome 108.0.0.0,,,2023-01-03 14:00:03,2023-01-03 14:00:03,0.015s,NOT_RUN
+"click(findTestObject(""Object Repository/Page_MHK MarketProminence Sandbox/i_Contains_action-icon-is-enabled fa fa-clo_c0333a""))",Chrome 108.0.0.0,,,2023-01-03 14:00:03,2023-01-03 14:00:07,4.142s,PASSED
+"click(findTestObject(""Object Repository/Page_MHK MarketProminence Sandbox/input_Contains_copyFrom-selected-col-radio-0""))",Chrome 108.0.0.0,,,2023-01-03 14:00:07,2023-01-03 14:00:09,2.185s,PASSED
+"click(findTestObject(""Object Repository/Page_MHK MarketProminence Sandbox/button_Copy""))",Chrome 108.0.0.0,,,2023-01-03 14:00:09,2023-01-03 14:00:10,1.486s,PASSED
+maximizeWindow(),Chrome 108.0.0.0,,,2023-01-03 14:00:10,2023-01-03 14:00:10,0.015s,NOT_RUN
+"verifyElementText(findTestObject(""Object Repository/Page_MHK MarketProminence Sandbox/div_Programs Copied Successfully""), ""Programs Copied Successfully"")",Chrome 108.0.0.0,,,2023-01-03 14:00:10,2023-01-03 14:00:13,2.308s,PASSED
+"click(findTestObject(""Object Repository/Page_MHK MarketProminence Sandbox/span_Copy Programs - staff user_k-button-ic_e1b3d7""))",Chrome 108.0.0.0,,,2023-01-03 14:00:13,2023-01-03 14:00:17,4.066s,PASSED
+"click(findTestObject(""Object Repository/Page_MHK MarketProminence Sandbox/button_Add""))",Chrome 108.0.0.0,,,2023-01-03 14:00:17,2023-01-03 14:00:19,2.008s,PASSED
+"setText(findTestObject(""Object Repository/Page_MHK MarketProminence Sandbox/input_Primary_affiliation""), ""staff user"")",Chrome 108.0.0.0,,,2023-01-03 14:00:19,2023-01-03 14:00:21,2.326s,PASSED
+"setText(findTestObject(""Object Repository/Page_MHK MarketProminence Sandbox/input_Secondary_affiliation""), ""user3"")",Chrome 108.0.0.0,,,2023-01-03 14:00:21,2023-01-03 14:00:23,1.777s,PASSED
+"click(findTestObject(""Object Repository/Page_MHK MarketProminence Sandbox/input_KL0_assignedPrograms-SELECTED-row-1-col-0""))",Chrome 108.0.0.0,,,2023-01-03 14:00:23,2023-01-03 14:00:24,1.064s,PASSED
+"click(findTestObject(""Object Repository/Page_MHK MarketProminence Sandbox/input_M05_assignedPrograms-SELECTED-row-4-col-0""))",Chrome 108.0.0.0,,,2023-01-03 14:00:24,2023-01-03 14:00:25,1.059s,PASSED
+"click(findTestObject(""Object Repository/Page_MHK MarketProminence Sandbox/button_Save""))",Chrome 108.0.0.0,,,2023-01-03 14:00:25,2023-01-03 14:00:26,1.030s,PASSED
+maximizeWindow(),Chrome 108.0.0.0,,,2023-01-03 14:00:26,2023-01-03 14:00:26,0.013s,NOT_RUN
+"click(findTestObject(""Object Repository/Page_MHK MarketProminence Sandbox/applyfrom""))",Chrome 108.0.0.0,,,2023-01-03 14:00:26,2023-01-03 14:00:29,2.893s,PASSED
+"click(findTestObject(""Object Repository/Page_MHK MarketProminence Sandbox/ApplytoCheckbox1""))",Chrome 108.0.0.0,,,2023-01-03 14:00:29,2023-01-03 14:00:31,2.467s,PASSED
+"click(findTestObject(""Object Repository/Page_MHK MarketProminence Sandbox/Applytocheckbox2""))",Chrome 108.0.0.0,,,2023-01-03 14:00:31,2023-01-03 14:00:33,1.377s,PASSED
+"click(findTestObject(""Object Repository/Page_MHK MarketProminence Sandbox/Apply""))",Chrome 108.0.0.0,,,2023-01-03 14:00:33,2023-01-03 14:00:34,1.047s,PASSED
+"click(findTestObject(""Object Repository/Page_MHK MarketProminence Sandbox/closeApplypopupwindow""))",Chrome 108.0.0.0,,,2023-01-03 14:00:34,2023-01-03 14:00:41,6.745s,PASSED
+a = 1,Chrome 108.0.0.0,,,2023-01-03 14:00:41,2023-01-03 14:00:41,0.015s,PASSED
+if (a == 5),Chrome 108.0.0.0,,,2023-01-03 14:00:41,2023-01-03 14:00:41,0.017s,PASSED
+"click(findTestObject(""Object Repository/Page_MHK MarketProminence Sandbox/i_Voluntary Disenroll Reason(18)_fa fa-lg fa-table""))",Chrome 108.0.0.0,,,2023-01-03 14:00:41,2023-01-03 14:00:45,4.806s,PASSED
+"click(findTestObject(""Object Repository/Page_MHK MarketProminence Sandbox/span_SNP(1)_k-icon ng-tns-c68-17 k-i-expand""))",Chrome 108.0.0.0,,,2023-01-03 14:00:45,2023-01-03 14:00:52,6.095s,PASSED
+"click(findTestObject(""Object Repository/Page_MHK MarketProminence Sandbox/i_Contains_action-icon-is-enabled fa fa-fw _a6b016""))",Chrome 108.0.0.0,,,2023-01-03 14:00:52,2023-01-03 14:00:53,1.135s,PASSED
+"getText(findTestObject(""Object Repository/Page_MHK MarketProminence Sandbox/span_user2""), OPTIONAL)",Chrome 108.0.0.0,,,2023-01-03 14:00:53,2023-01-03 14:02:35,1m - 42.632s,PASSED
+"click(findTestObject(""Object Repository/Page_MHK MarketProminence Sandbox/i_Voluntary Disenroll Reason(18)_fa fa-lg f_9fce55""))",Chrome 108.0.0.0,,,2023-01-03 14:02:35,2023-01-03 14:02:37,1.319s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_MHK MarketProminence Sandbox/span_Record  1""), ""Record : 1"")",Chrome 108.0.0.0,,,2023-01-03 14:02:37,2023-01-03 14:02:40,3.019s,PASSED
+"click(findTestObject(""Object Repository/Page_MHK MarketProminence Sandbox/i_Voluntary Disenroll Reason(18)_fa fa-lg f_5f7ad2""))",Chrome 108.0.0.0,,,2023-01-03 14:02:40,2023-01-03 14:02:41,1.069s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_MHK MarketProminence Sandbox/span_Records  2""), ""Records : 2"")",Chrome 108.0.0.0,,,2023-01-03 14:02:41,2023-01-03 14:02:52,10.849s,PASSED
+"click(findTestObject(""Object Repository/Page_MHK MarketProminence Sandbox/i_Voluntary Disenroll Reason(18)_fa fa-lg fa-table""))",Chrome 108.0.0.0,,,2023-01-03 14:02:52,2023-01-03 14:02:53,1.035s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_MHK MarketProminence Sandbox/span_Records  3""), ""Records : 3"")",Chrome 108.0.0.0,,,2023-01-03 14:02:53,2023-01-03 14:02:59,6.694s,PASSED
+"mouseOver(findTestObject(""Object Repository/Page_MHK MarketProminence Sandbox/span_Assigned Programs_k-icon k-i-file-exce_807b9d""), OPTIONAL)",Chrome 108.0.0.0,,,2023-01-03 14:02:59,2023-01-03 14:03:01,1.857s,PASSED
+"mouseOver(findTestObject(""Object Repository/Page_MHK MarketProminence Sandbox/span_Assigned Programs_k-icon k-i-file-pdf _669663""), OPTIONAL)",Chrome 108.0.0.0,,,2023-01-03 14:03:01,2023-01-03 14:03:02,1.168s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_MHK MarketProminence Sandbox/span_Records  31""), ""Records : 31"")",Chrome 108.0.0.0,,,2023-01-03 14:03:02,2023-01-03 14:03:02,0.010s,NOT_RUN
+"click(findTestObject(""Object Repository/Page_MHK MarketProminence Sandbox/i_Assigned Programs_fa fa-lg fa-table""))",Chrome 108.0.0.0,,,2023-01-03 14:03:02,2023-01-03 14:03:03,1.071s,PASSED
+"click(findTestObject(""Object Repository/Page_MHK MarketProminence Sandbox/i_Assigned Programs_fa fa-check-square fa-lg""))",Chrome 108.0.0.0,,,2023-01-03 14:03:03,2023-01-03 14:03:05,1.282s,PASSED
+"getText(findTestObject(""Object Repository/Page_MHK MarketProminence Sandbox/input_Contains_assignedPrograms-SELECTED-ro_1fd6e7""), OPTIONAL)",Chrome 108.0.0.0,,,2023-01-03 14:03:05,2023-01-03 14:03:06,0.984s,PASSED
+"getText(findTestObject(""Object Repository/Page_MHK MarketProminence Sandbox/input_KL0_assignedPrograms-SELECTED-row-1-col-0""), OPTIONAL)",Chrome 108.0.0.0,,,2023-01-03 14:03:06,2023-01-03 14:03:07,0.985s,PASSED
+"click(findTestObject(""Object Repository/Page_MHK MarketProminence Sandbox/i_Assigned Programs_fa fa-lg fa-square-o""))",Chrome 108.0.0.0,,,2023-01-03 14:03:07,2023-01-03 14:03:08,1.372s,PASSED
+"click(findTestObject(""Object Repository/Page_MHK MarketProminence Sandbox/i_Assigned Programs_fa fa-check-square fa-lg""))",Chrome 108.0.0.0,,,2023-01-03 14:03:08,2023-01-03 14:03:09,1.168s,PASSED
+"click(findTestObject(""Object Repository/Page_MHK MarketProminence Sandbox/i_Assigned Programs_fa fa-lg fa-square-o""))",Chrome 108.0.0.0,,,2023-01-03 14:03:09,2023-01-03 14:03:11,1.362s,PASSED
+"click(findTestObject(""Object Repository/Page_MHK MarketProminence Sandbox/i_Contains_action-icon-is-enabled fa fa-fw _582439""))",Chrome 108.0.0.0,,,2023-01-03 14:03:11,2023-01-03 14:03:12,1.202s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_MHK MarketProminence Sandbox/span_Records  3""), ""Records : 3"")",Chrome 108.0.0.0,,,2023-01-03 14:03:12,2023-01-03 14:03:15,2.953s,PASSED
+"click(findTestObject(""Object Repository/Page_MHK MarketProminence Sandbox/i_Contains_action-icon-is-enabled fa fa-fw _8e0d62""))",Chrome 108.0.0.0,,,2023-01-03 14:03:15,2023-01-03 14:03:16,1.060s,PASSED
+"click(findTestObject(""Object Repository/Page_MHK MarketProminence Sandbox/button_Yes""))",Chrome 108.0.0.0,,,2023-01-03 14:03:16,2023-01-03 14:03:17,1.200s,PASSED
+"click(findTestObject(""Object Repository/Page_MHK MarketProminence Sandbox/i_Contains_action-icon-is-enabled fa fa-fw _8e0d62""))",Chrome 108.0.0.0,,,2023-01-03 14:03:17,2023-01-03 14:03:20,3.041s,PASSED
+"click(findTestObject(""Object Repository/Page_MHK MarketProminence Sandbox/button_Yes""))",Chrome 108.0.0.0,,,2023-01-03 14:03:20,2023-01-03 14:03:21,1.092s,PASSED
+"click(findTestObject(""Object Repository/Page_MHK MarketProminence Sandbox/i_Contains_action-icon-is-enabled fa fa-fw _8e0d62""))",Chrome 108.0.0.0,,,2023-01-03 14:03:21,2023-01-03 14:03:24,2.991s,PASSED
+"click(findTestObject(""Object Repository/Page_MHK MarketProminence Sandbox/button_Yes""))",Chrome 108.0.0.0,,,2023-01-03 14:03:24,2023-01-03 14:03:25,1.045s,PASSED
+"click(findTestObject(""Object Repository/Page_MHK MarketProminence Sandbox/a_About MarketProminence_mpweb-navbar-icon-_43a834""))",Chrome 108.0.0.0,,,2023-01-03 14:03:25,2023-01-03 14:03:28,3.053s,PASSED
+"click(findTestObject(""Object Repository/Page_MHK MarketProminence Sandbox/span_Log Out""))",Chrome 108.0.0.0,,,2023-01-03 14:03:28,2023-01-03 14:03:30,1.292s,PASSED
+"navigateToUrl(""https://mpwebsandbox.mhkdevsandbox.com/authenticate/Account/Logout?logoutId=CfDJ8K87TC5dzgBOtk8mjK3KbhZJ7srMBqIZeaK84EgHpItsTF3ug5ko5xKSjvrSn0sppYTlFgYNoqazYwuTiT7yZwYC5ERLgfRnHQUREdAE0koEe4iVBz1LPe7vFJyqL0EmWGUsrOdnRAvu33qN8wHH3dOKyIcGEi5fivCul-88yAJ6Ha4jyokVk9V5oWX7BBfFlc8fntCC3N0ijb2oQgkN_P8QOxY-K_BhAxzV_IH5bTo3ElkxmipC2F-Zl0LeoOkhtzPoTv_IzfUWdmNoGsxFoRSFhMtffMz7238EO-0QUWa4N9g_sUGm_ZjZIIHCjuIrMcMnm21n3B9mJIQPAQJWKy7c4VL9OuhLfKhs-07Y-dafoP7Ym62S5pnNUq5IDZ7n721k0WwE4Ryj78D0ZmlRHXJxtf5wUaGovO4ywS_4HDbCawSOzYekU5AODg7F4KHheRJlWghSxocNWvGXaHzepzSq8_KyaP1Pm-9el3YQqsNBpsNjhMiEHvtdyc9KVGGHpE1Rki8jBKph0-owSwtkINw"")",Chrome 108.0.0.0,,,2023-01-03 14:03:30,2023-01-03 14:03:30,0.195s,PASSED
+"click(findTestObject(""Object Repository/Page_MarketProminence Authorization/body_MarketProminence Authorization        _4e99f9""))",Chrome 108.0.0.0,,,2023-01-03 14:03:30,2023-01-03 14:03:33,3.066s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_MarketProminence Authorization/small_You are now logged out""), ""You are now logged out"")",Chrome 108.0.0.0,,,2023-01-03 14:03:33,2023-01-03 14:03:35,2.370s,PASSED
+closeBrowser(),Chrome 108.0.0.0,,,2023-01-03 14:03:35,2023-01-03 14:03:38,2.372s,PASSED
+Video,Chrome 108.0.0.0,,,2023-01-03 14:03:41,2023-01-03 14:03:41,0.001s,PASSED

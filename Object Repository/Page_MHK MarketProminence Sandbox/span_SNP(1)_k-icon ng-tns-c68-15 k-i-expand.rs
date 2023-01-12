@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_SNP(1)_k-icon ng-tns-c68-15 k-i-expand</name>
+   <tag></tag>
+   <elementGuidId>54f78933-d6ee-48a3-8735-b18a1cddb14f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//kendo-treeview[@id='mpweb-setup-options-list']/ul/li/ul/li[29]/div/span/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e85951b2-9638-4ee7-8d33-091e4bee5f62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-icon ng-tns-c68-15 k-i-expand</value>
+      <webElementGuid>081cb220-08e1-47f9-9917-d30b97b7d0d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mpweb-setup-options-list&quot;)/ul[@class=&quot;k-treeview-lines ng-tns-c68-14 k-treeview-group ng-star-inserted&quot;]/li[@class=&quot;k-treeview-item ng-tns-c68-14 ng-star-inserted&quot;]/ul[@class=&quot;ng-tns-c68-15 ng-tns-c68-14 ng-trigger ng-trigger-toggle k-treeview-group ng-star-inserted&quot;]/li[@class=&quot;k-treeview-item ng-tns-c68-15 ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c68-15 k-treeview-mid&quot;]/span[@class=&quot;k-treeview-toggle ng-tns-c68-15 ng-star-inserted&quot;]/span[@class=&quot;k-icon ng-tns-c68-15 k-i-expand&quot;]</value>
+      <webElementGuid>e45c975e-f861-44cb-b1b8-a1f5e7ac6591</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//kendo-treeview[@id='mpweb-setup-options-list']/ul/li/ul/li[29]/div/span/span</value>
+      <webElementGuid>002047d5-df72-48d9-8944-81c1a33473ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[29]/div/span/span</value>
+      <webElementGuid>763a9a32-92d9-4604-9937-9c705295ed7d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

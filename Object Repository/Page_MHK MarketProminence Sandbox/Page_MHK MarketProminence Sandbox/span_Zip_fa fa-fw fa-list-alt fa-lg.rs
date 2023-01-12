@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Zip_fa fa-fw fa-list-alt fa-lg</name>
+   <tag></tag>
+   <elementGuidId>c41e0336-f02f-495d-8f02-2a11b2343035</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='mpweb-navbar-icon-button-windows-dropdown']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.fa.fa-fw.fa-list-alt.fa-lg</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0f1dbb54-65e4-4640-b732-e4ae0f2f9ff3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-fw fa-list-alt fa-lg</value>
+      <webElementGuid>e2825527-9db2-4636-bced-97299fc796ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mpweb-navbar-icon-button-windows-dropdown&quot;)/span[@class=&quot;fa fa-fw fa-list-alt fa-lg&quot;]</value>
+      <webElementGuid>d5e51eda-2135-4f20-98ec-a0ed2b313cfa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='mpweb-navbar-icon-button-windows-dropdown']/span</value>
+      <webElementGuid>f131c017-1eea-4611-a0fc-17d0c780eb88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/a/span</value>
+      <webElementGuid>186410e1-150b-49e3-a266-39578f9c2602</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

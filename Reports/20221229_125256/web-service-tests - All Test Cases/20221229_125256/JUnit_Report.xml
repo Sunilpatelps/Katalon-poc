@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="web-service-tests - All Test Cases" time="18.408" tests="2" failures="0" errors="0">
+   <testsuite name="web-service-tests - All Test Cases" tests="2" failures="0" errors="0" time="18.408" skipped="0" timestamp="2022-12-29 12:53:10" hostname="sunil.patel - PS-LP-NOI-10126" id="Test Suites/web-service-tests - All Test Cases">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\sunil.patel\\Katalon Studio\\Sample - Web API Tests\\Reports\\20221229_125256\\web-service-tests - All Test Cases\\20221229_125256"/>
+         <property name="logFiles" value="C:\\Users\\sunil.patel\\Katalon Studio\\Sample - Web API Tests\\Reports\\20221229_125256\\web-service-tests - All Test Cases\\20221229_125256\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="sunil.patel - PS-LP-NOI-10126"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.5.5.208"/>
+         <property name="browser" value="Chrome 108.0.0.0"/>
+         <property name="hostAddress" value="192.168.100.126"/>
+         <property name="sessionId" value="be3a870199f7d94ea30bb416c6345354"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Create a new user" time="8.71" classname="Test Cases/Create a new user" status="PASSED">
+         <system-out><![CDATA[2022-12-29 12:53:11 - [TEST_CASE][PASSED] - Test Cases/Create a new user: Test Cases/Create a new user
+
+2022-12-29 12:53:12 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2022-12-29 12:53:12 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2022-12-29 12:53:12 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2022-12-29 12:53:18 - [MESSAGE][WARNING] - FFmpeg was not installed! Browser Recording will be disabled. Please follow this document to install FFmpeg first: https://docs.katalon.com/katalon-studio/docs/screenshots-videos.html#browser-based-recorder
+
+2022-12-29 12:53:18 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2022-12-29 12:53:18 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2022-12-29 12:53:20 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Find user by ID" time="9.173" classname="Test Cases/Find user by ID" status="PASSED">
+         <system-out><![CDATA[2022-12-29 12:53:20 - [TEST_CASE][PASSED] - Test Cases/Find user by ID: Test Cases/Find user by ID
+
+2022-12-29 12:53:21 - [TEST_STEP][PASSED] - id = sample.Common.createNewUser(age, username, password, gender, 200): sample.Common.createNewUser is PASSED
+
+2022-12-29 12:53:26 - [MESSAGE][INFO] - HAR: C:\Users\sunil.patel\Katalon Studio\Sample - Web API Tests\Reports\20221229_125256\web-service-tests - All Test Cases\20221229_125256\requests\main\0.har
+
+2022-12-29 12:53:26 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+2022-12-29 12:53:26 - [TEST_STEP][PASSED] - request = getInstance().getCurrentRequest(): null
+
+2022-12-29 12:53:26 - [TEST_STEP][PASSED] - response = getInstance().getCurrentResponse(): null
+
+2022-12-29 12:53:26 - [TEST_STEP][PASSED] - assert response.getStatusCode() == 200: null
+
+2022-12-29 12:53:26 - [TEST_STEP][PASSED] - verifyElementPropertyValue(response, "age", 25): Verify element property value successfully
+
+2022-12-29 12:53:26 - [MESSAGE][PASSED] - Verify element property value successfully
+
+2022-12-29 12:53:26 - [TEST_STEP][PASSED] - verifyElementPropertyValue(response, "username", "mimi"): Verify element property value successfully
+
+2022-12-29 12:53:26 - [MESSAGE][PASSED] - Verify element property value successfully
+
+2022-12-29 12:53:26 - [TEST_STEP][PASSED] - verifyElementPropertyValue(response, "password", "123456789"): Verify element property value successfully
+
+2022-12-29 12:53:26 - [MESSAGE][PASSED] - Verify element property value successfully
+
+2022-12-29 12:53:26 - [TEST_STEP][PASSED] - verifyElementPropertyValue(response, "gender", "MALE"): Verify element property value successfully
+
+2022-12-29 12:53:26 - [MESSAGE][PASSED] - Verify element property value successfully
+
+2022-12-29 12:53:26 - [MESSAGE][PASSED] - Verify response successfully
+
+2022-12-29 12:53:26 - [MESSAGE][PASSED] - All validation steps have been passed
+
+2022-12-29 12:53:26 - [MESSAGE][PASSED] - Send request and verify the response successfully
+
+2022-12-29 12:53:26 - [MESSAGE][PASSED] - sample.Common.createNewUser is PASSED
+
+2022-12-29 12:53:26 - [TEST_STEP][PASSED] - sample.Common.findUserById(id, age, username, password, gender, 200): sample.Common.findUserById is PASSED
+
+2022-12-29 12:53:28 - [MESSAGE][INFO] - HAR: C:\Users\sunil.patel\Katalon Studio\Sample - Web API Tests\Reports\20221229_125256\web-service-tests - All Test Cases\20221229_125256\requests\main\1.har
+
+2022-12-29 12:53:28 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+2022-12-29 12:53:29 - [TEST_STEP][PASSED] - request = getInstance().getCurrentRequest(): null
+
+2022-12-29 12:53:29 - [TEST_STEP][PASSED] - response = getInstance().getCurrentResponse(): null
+
+2022-12-29 12:53:29 - [TEST_STEP][PASSED] - assert response.getStatusCode() == 200: null
+
+2022-12-29 12:53:29 - [TEST_STEP][PASSED] - verifyElementPropertyValue(response, "age", 25): Verify element property value successfully
+
+2022-12-29 12:53:29 - [MESSAGE][PASSED] - Verify element property value successfully
+
+2022-12-29 12:53:29 - [TEST_STEP][PASSED] - verifyElementPropertyValue(response, "username", "mimi"): Verify element property value successfully
+
+2022-12-29 12:53:29 - [MESSAGE][PASSED] - Verify element property value successfully
+
+2022-12-29 12:53:29 - [TEST_STEP][PASSED] - verifyElementPropertyValue(response, "password", "123456789"): Verify element property value successfully
+
+2022-12-29 12:53:29 - [MESSAGE][PASSED] - Verify element property value successfully
+
+2022-12-29 12:53:29 - [TEST_STEP][PASSED] - verifyElementPropertyValue(response, "gender", "MALE"): Verify element property value successfully
+
+2022-12-29 12:53:29 - [MESSAGE][PASSED] - Verify element property value successfully
+
+2022-12-29 12:53:29 - [MESSAGE][PASSED] - Verify response successfully
+
+2022-12-29 12:53:29 - [MESSAGE][PASSED] - All validation steps have been passed
+
+2022-12-29 12:53:29 - [MESSAGE][PASSED] - Send request and verify the response successfully
+
+2022-12-29 12:53:29 - [MESSAGE][PASSED] - sample.Common.findUserById is PASSED]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2022-12-29 12:53:10 - [TEST_SUITE][PASSED] - web-service-tests - All Test Cases: Test Cases/Find user by ID]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

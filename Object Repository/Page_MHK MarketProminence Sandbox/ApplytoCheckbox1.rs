@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ApplytoCheckbox1</name>
+   <tag></tag>
+   <elementGuidId>d48ce024-8611-4c72-b4a9-4b10916fb9d0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//*[@id=&quot;mpweb-setup-setupaffiliation-setupaffiliation-full-editable-grid-applyto-selected&quot;])[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;mpweb-setup-setupaffiliation-setupaffiliation-full-editable-grid-applyto-selected&quot;]</value>
+      <webElementGuid>d24177b8-feb4-4956-b6be-be8158f87fff</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <type>Main</type>
+      <value>//*[@id=&quot;mpweb-setup-setupaffiliation-setupaffiliation-full-editable-grid-applyto-selected&quot;]</value>
+      <webElementGuid>4e219ba7-6b9e-44a8-818a-4d8c7d326c5d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

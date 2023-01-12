@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>MpwebSuite1</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient>sunilmalehra@gmail.com;</mailRecipient>
+   <numberOfRerun>2</numberOfRerun>
+   <pageLoadTimeout>100</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>8c871ca7-fbb5-4cde-874a-05e30052fb4c</testSuiteGuid>
+   <testCaseLink>
+      <guid>2f1be520-da09-4f3b-87a7-670ccd16f980</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/LoginTestcase</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>139ce929-9376-4014-9525-a8f709e81467</id>
+         <iterationEntity>
+            <iterationType>RANGE</iterationType>
+            <value>1-1</value>
+         </iterationEntity>
+         <testDataId>Data Files/Exceldata</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>139ce929-9376-4014-9525-a8f709e81467</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>url</value>
+         <variableId>398919d2-44fa-4915-be61-8f826dca268d</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>139ce929-9376-4014-9525-a8f709e81467</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>username</value>
+         <variableId>649cf291-3598-4e4f-a8fd-8fd42f8da7d6</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>139ce929-9376-4014-9525-a8f709e81467</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>9bd22a93-a538-4928-aa10-5df7a76bd88a</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>a3ae283f-7b34-4511-aec6-cc4a732d6edd</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>false</isRun>
+      <testCaseId>Test Cases/Add_Affiliation</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>5b8e98d1-9738-45a1-8e87-3d4956aa4562</id>
+         <iterationEntity>
+            <iterationType>RANGE</iterationType>
+            <value>1-1</value>
+         </iterationEntity>
+         <testDataId>Data Files/Exceldata</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>5b8e98d1-9738-45a1-8e87-3d4956aa4562</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>url</value>
+         <variableId>d361d4b6-b19e-464b-8e72-8873c2ca5911</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>5b8e98d1-9738-45a1-8e87-3d4956aa4562</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>username</value>
+         <variableId>e3b0a9e5-fff7-4a52-b6f9-222f46f6e7b6</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>5b8e98d1-9738-45a1-8e87-3d4956aa4562</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>5f35d45a-4472-4835-82b0-4b1549de8b4f</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

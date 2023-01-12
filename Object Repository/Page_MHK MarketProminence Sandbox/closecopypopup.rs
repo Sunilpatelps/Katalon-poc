@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>closecopypopup</name>
+   <tag></tag>
+   <elementGuidId>30f5b9f4-f772-42fd-a36c-5e2dbf78e2a2</elementGuidId>
+   <imagePath>LocateUsingImage/closepopup.JPG</imagePath>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@title='Close']</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value>LocateUsingImage/closepopup.JPG</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.k-button-icon.k-icon.k-i-close.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>376db358-a0a9-47d9-b93e-aba2f5c8b298</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-button-icon k-icon k-i-close ng-star-inserted</value>
+      <webElementGuid>c75bb81f-5382-4b84-b6c7-40296ff2b5f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>presentation</value>
+      <webElementGuid>5208cef8-a61a-4212-aaca-c0c1256c89ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;ng-tns-0-7&quot;]/app-root[1]/kendo-window[@class=&quot;k-window ng-star-inserted k-focus&quot;]/kendo-window-titlebar[@class=&quot;k-window-titlebar k-dialog-titlebar ng-star-inserted&quot;]/div[@class=&quot;k-window-actions ng-star-inserted&quot;]/button[@class=&quot;k-icon-button k-button k-button-md k-rounded-md k-button-flat-base k-button-flat&quot;]/span[@class=&quot;k-button-icon k-icon k-i-close ng-star-inserted&quot;]</value>
+      <webElementGuid>82d914d5-0b39-40b2-b119-8ee6a5dc5e8c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[@title='Close']</value>
+      <webElementGuid>b94bb669-69b9-482c-b217-56c601d2443b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>deletebutton</name>
+   <tag></tag>
+   <elementGuidId>8f3f216a-a5ec-4622-b9ad-daa4496f7bbf</elementGuidId>
+   <imagePath>../../Desktop/deleteRecord.JPG</imagePath>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//i[@title = 'Delete']</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value>../../Desktop/deleteRecord.JPG</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#k-grid5-r3c0 > i.action-icon-is-enabled.fa.fa-clone.fa-fw.toolbar-icon.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@title = '']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>2748062f-a266-4973-becb-da3c62c8fcc8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>action-icon-is-enabled fa fa-clone fa-fw toolbar-icon ng-star-inserted</value>
+      <webElementGuid>472c853f-3eb5-4740-91b3-566a28890138</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value></value>
+      <webElementGuid>24efc917-ca09-4746-b440-8057ec3b9d7a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;k-grid5-r3c0&quot;)/i[@class=&quot;action-icon-is-enabled fa fa-clone fa-fw toolbar-icon ng-star-inserted&quot;]</value>
+      <webElementGuid>25d06e91-aae2-45bb-94a2-8fe7f9c7887b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//td[@id='k-grid5-r3c0']/i[2]</value>
+      <webElementGuid>23b88055-2fd2-453a-92c8-b2dd45415407</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td/i[1]</value>
+      <webElementGuid>6e866df2-bbec-4d2a-96a0-0939d083fbec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//i[@title = 'Delete']</value>
+      <webElementGuid>3997f347-3d86-42a6-b01f-c470cec5977e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

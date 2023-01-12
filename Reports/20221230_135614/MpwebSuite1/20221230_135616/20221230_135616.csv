@@ -1,0 +1,8 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+MpwebSuite1,Chrome 108.0.0.0,,,2022-12-30 13:56:30,2022-12-30 13:56:58,28.169s,PASSED
+,,,,,,,
+Test Cases/LoginTestcase,Chrome 108.0.0.0,,,2022-12-30 13:56:30,2022-12-30 13:56:58,27.778s,PASSED
+"openBrowser("""")",Chrome 108.0.0.0,,,2022-12-30 13:56:30,2022-12-30 13:56:35,4.931s,PASSED
+navigateToUrl(url),Chrome 108.0.0.0,,,2022-12-30 13:56:35,2022-12-30 13:56:48,12.846s,PASSED
+"var = verifyElementText(findTestObject(""Page_MarketProminence Authorization/h3_MarketProminence Login""), ""MarketProminence Login"", OPTIONAL)",Chrome 108.0.0.0,,,2022-12-30 13:56:48,2022-12-30 13:56:48,0.426s,PASSED
+if (var == true),Chrome 108.0.0.0,,,2022-12-30 13:56:48,2022-12-30 13:56:58,9.259s,PASSED

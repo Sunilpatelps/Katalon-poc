@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Program_k-input-value-text</name>
+   <tag></tag>
+   <elementGuidId>51c7e8f8-e580-4647-988a-3eca9f9f9f65</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Program'])[3]/following::span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#b55249ce-4bab-4308-acad-17324bbb2d0c > span.k-input-value-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>cdff2395-de1a-467e-b3a6-5c75b94d53d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-input-value-text</value>
+      <webElementGuid>c07e13f7-71a3-4228-b482-a9a7fd9a9854</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;b55249ce-4bab-4308-acad-17324bbb2d0c&quot;)/span[@class=&quot;k-input-value-text&quot;]</value>
+      <webElementGuid>2c260bbe-5fe6-4b2c-b224-076b82102eab</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='b55249ce-4bab-4308-acad-17324bbb2d0c']/span</value>
+      <webElementGuid>058d595e-65f7-4e0e-81f6-b60d8c9c363b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Program'])[3]/following::span[2]</value>
+      <webElementGuid>7f245b91-dcfa-4081-bf74-79470c5ed27f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='S00063600848'])[2]/following::span[2]</value>
+      <webElementGuid>3f43a6b4-9f35-430f-ab7a-68d92b266868</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Primary'])[2]/preceding::span[2]</value>
+      <webElementGuid>51c5a2c7-a22c-4736-807d-80b2ce074906</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Secondary'])[2]/preceding::span[3]</value>
+      <webElementGuid>b460dbc3-6ee0-47e1-9318-a3fc40f1001d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/kendo-dropdownlist/span/span</value>
+      <webElementGuid>7d342b47-0ea6-4995-884b-23263c7811da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='c861c81f-aa25-494a-8ac5-03b9ac63cc72']/span</value>
+      <webElementGuid>c2924d4c-0040-4b7b-9b81-f8fcdb4a4408</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cortez, Andre'])[4]/following::span[2]</value>
+      <webElementGuid>338906ea-b012-4a56-80bd-236e040a201f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

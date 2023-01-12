@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LoginTestcase</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0b1c77cd-8828-491b-9c34-58df22556dff</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>0b0e6a84-38c7-430b-ba85-363f2a4811f4</id>
+      <iterationEntity>
+         <iterationType>RANGE</iterationType>
+         <value>1-2</value>
+      </iterationEntity>
+      <testDataId>Data Files/Exceldata</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>0b0e6a84-38c7-430b-ba85-363f2a4811f4</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>url</value>
+      <variableId>398919d2-44fa-4915-be61-8f826dca268d</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>0b0e6a84-38c7-430b-ba85-363f2a4811f4</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>username</value>
+      <variableId>649cf291-3598-4e4f-a8fd-8fd42f8da7d6</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>0b0e6a84-38c7-430b-ba85-363f2a4811f4</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>password</value>
+      <variableId>9bd22a93-a538-4928-aa10-5df7a76bd88a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'https://mpwebsandbox.mhkdevsandbox.com/'</defaultValue>
+      <description></description>
+      <id>398919d2-44fa-4915-be61-8f826dca268d</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>'DZCPS'</defaultValue>
+      <description></description>
+      <id>649cf291-3598-4e4f-a8fd-8fd42f8da7d6</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'mp0292'</defaultValue>
+      <description></description>
+      <id>9bd22a93-a538-4928-aa10-5df7a76bd88a</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

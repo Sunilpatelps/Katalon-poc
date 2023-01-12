@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Voluntary Disenroll Reason(18)_fa fa-lg fa-table</name>
+   <tag></tag>
+   <elementGuidId>82f5245d-e5c9-4cb2-abbf-93adc1009778</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-lg.fa-table</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//kendo-grid[@id='mpweb-setup-setupaffiliation-grid']/kendo-grid-toolbar/div[2]/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>b5a257d5-5f08-41b1-86fd-ba204e832be8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-lg fa-table</value>
+      <webElementGuid>b59870fc-bb87-4b81-a638-a3ea47930b96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mpweb-setup-setupaffiliation-grid&quot;)/kendo-grid-toolbar[@class=&quot;k-toolbar k-grid-toolbar ng-star-inserted&quot;]/div[@class=&quot;tool-bar-item-container ng-star-inserted&quot;]/a[@class=&quot;toolbar-icon ng-star-inserted&quot;]/i[@class=&quot;fa fa-lg fa-table&quot;]</value>
+      <webElementGuid>4f1dc1e0-0382-4a3d-89be-6b0f3dcd9605</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//kendo-grid[@id='mpweb-setup-setupaffiliation-grid']/kendo-grid-toolbar/div[2]/a/i</value>
+      <webElementGuid>c1fa5fa0-0fd6-4581-8b5d-90373daa6773</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a/i</value>
+      <webElementGuid>e7b8b1e6-3995-4ef9-8c69-97cacee1ddf1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

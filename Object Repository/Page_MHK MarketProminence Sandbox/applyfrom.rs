@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>applyfrom</name>
+   <tag></tag>
+   <elementGuidId>989045df-d61e-4b3c-9a28-48c26774d140</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;k-grid5-r4c0&quot;]/i[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <type>Main</type>
+      <value>//*[@id=&quot;k-grid5-r4c0&quot;]/i[3]</value>
+      <webElementGuid>4caccfdc-3209-4050-bdea-4e918647bfe6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

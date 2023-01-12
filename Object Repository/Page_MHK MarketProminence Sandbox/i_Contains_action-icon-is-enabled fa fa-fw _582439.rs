@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Contains_action-icon-is-enabled fa fa-fw _582439</name>
+   <tag></tag>
+   <elementGuidId>c8961a81-7810-4872-9f99-d0c018f8c10d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.action-icon-is-enabled.fa.fa-fw.fa-toggle-off.toolbar-icon.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//td/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>7d5c221a-6ad0-4fd4-ae39-44898f81d1da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>action-icon-is-enabled fa fa-fw fa-toggle-off toolbar-icon ng-star-inserted</value>
+      <webElementGuid>c4ac7397-94ee-43f8-a788-33c39548f844</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Inactive</value>
+      <webElementGuid>153c9ae1-7099-47ef-89e2-d67ccdbc5978</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;k-grid20-r2c0&quot;)/i[@class=&quot;action-icon-is-enabled fa fa-fw fa-toggle-off toolbar-icon ng-star-inserted&quot;]</value>
+      <webElementGuid>e8f7c89d-1754-446f-842c-ab17453cbefb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//td[@id='k-grid20-r2c0']/i</value>
+      <webElementGuid>9cfec70b-a87a-4dac-8a10-328e0c697624</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/i</value>
+      <webElementGuid>e38713c5-b4e4-4091-877f-9a4c9dd4907d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//i[@title = 'Inactive']</value>
+      <webElementGuid>b4917a72-c78f-4472-b62c-71ee6a3abad3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

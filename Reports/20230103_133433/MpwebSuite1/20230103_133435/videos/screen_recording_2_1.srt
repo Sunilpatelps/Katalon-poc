@@ -1,0 +1,264 @@
+1
+00:00:00,011 --> 00:00:00,162
+1. callTestCase(findTestCase("LoginTestcase"), ["url":url, "username":username, "password":password], CONTINUE_ON_FAILURE)
+
+2
+00:00:00,171 --> 00:00:06,007
+1. openBrowser("")
+
+3
+00:00:06,011 --> 00:00:21,428
+5. navigateToUrl(url)
+
+4
+00:00:21,436 --> 00:00:22,353
+9. var = verifyElementText(findTestObject("Page_MarketProminence Authorization/h3_MarketProminence Login"), "MarketProminence Login", OPTIONAL)
+
+5
+00:00:22,359 --> 00:00:22,362
+13. if (var == true)
+
+6
+00:00:22,370 --> 00:00:23,817
+1. setText(findTestObject("Object Repository/Page_MarketProminence Authorization/input_Username_Username"), username)
+
+7
+00:00:23,826 --> 00:00:24,769
+5. click(findTestObject("Object Repository/Page_MarketProminence Authorization/div_Password"))
+
+8
+00:00:24,776 --> 00:00:26,112
+9. setText(findTestObject("Object Repository/Page_MarketProminence Authorization/input_Password_Password"), password)
+
+9
+00:00:26,121 --> 00:00:32,773
+13. click(findTestObject("Object Repository/Page_MarketProminence Authorization/button_Login"))
+
+10
+00:00:32,780 --> 00:00:32,788
+17. waitForPageLoad(30)
+
+11
+00:00:32,798 --> 00:00:35,517
+5. click(findTestObject("Object Repository/Page_MHK MarketProminence Sandbox/a_MarketProminence_mpweb-navbar-icon-button_1cdd27"))
+
+12
+00:00:35,525 --> 00:00:36,731
+9. click(findTestObject("Object Repository/Page_MHK MarketProminence Sandbox/a_Setup"))
+
+13
+00:00:36,740 --> 00:00:46,852
+13. click(findTestObject("Object Repository/Page_MHK MarketProminence Sandbox/a_Action"))
+
+14
+00:00:46,859 --> 00:00:48,773
+17. click(findTestObject("Object Repository/Page_MHK MarketProminence Sandbox/selectAffiliation"))
+
+15
+00:00:48,779 --> 00:00:50,152
+21. maximizeWindow()
+
+16
+00:00:50,158 --> 00:00:57,061
+25. click(findTestObject("Object Repository/Page_MHK MarketProminence Sandbox/button_Add"))
+
+17
+00:00:57,068 --> 00:01:00,932
+29. setText(findTestObject("Object Repository/Page_MHK MarketProminence Sandbox/input_Primary_affiliation"), "staff user")
+
+18
+00:01:00,939 --> 00:01:02,522
+33. click(findTestObject("Object Repository/Page_MHK MarketProminence Sandbox/input_Secondary_affiliation"))
+
+19
+00:01:02,530 --> 00:01:05,623
+37. setText(findTestObject("Object Repository/Page_MHK MarketProminence Sandbox/input_Secondary_affiliation"), "user1")
+
+20
+00:01:05,629 --> 00:01:06,913
+41. click(findTestObject("Object Repository/Page_MHK MarketProminence Sandbox/input_Lan_assignedPrograms-SELECTED-row-2-col-0"))
+
+21
+00:01:06,921 --> 00:01:08,164
+45. click(findTestObject("Object Repository/Page_MHK MarketProminence Sandbox/input_M03_assignedPrograms-SELECTED-row-3-col-0"))
+
+22
+00:01:08,169 --> 00:01:09,351
+49. click(findTestObject("Object Repository/Page_MHK MarketProminence Sandbox/button_Save"))
+
+23
+00:01:09,366 --> 00:01:21,880
+53. click(findTestObject("Object Repository/Page_MHK MarketProminence Sandbox/span_staff user (1)"))
+
+24
+00:01:21,888 --> 00:01:24,133
+57. click(findTestObject("Object Repository/Page_MHK MarketProminence Sandbox/button_Add"))
+
+25
+00:01:24,140 --> 00:01:25,754
+61. click(findTestObject("Object Repository/Page_MHK MarketProminence Sandbox/span_Primary_k-button-icon k-icon k-i-arrow-s"))
+
+26
+00:01:25,761 --> 00:01:27,325
+65. setText(findTestObject("Object Repository/Page_MHK MarketProminence Sandbox/input_Primary_affiliation"), "staff user")
+
+27
+00:01:27,336 --> 00:01:28,928
+69. setText(findTestObject("Object Repository/Page_MHK MarketProminence Sandbox/input_Secondary_affiliation"), "user2")
+
+28
+00:01:28,937 --> 00:01:29,853
+73. click(findTestObject("Object Repository/Page_MHK MarketProminence Sandbox/input_M03_assignedPrograms-SELECTED-row-3-col-0"))
+
+29
+00:01:29,862 --> 00:01:30,713
+77. click(findTestObject("Object Repository/Page_MHK MarketProminence Sandbox/button_Save"))
+
+30
+00:01:30,721 --> 00:01:30,724
+81. verifyElementText(findTestObject("Object Repository/Page_MHK MarketProminence Sandbox/div_Successfully saved Affiliation"), "Successfully saved Affiliation.")
+
+31
+00:01:30,734 --> 00:01:33,369
+85. click(findTestObject("Object Repository/Page_MHK MarketProminence Sandbox/i_Contains_action-icon-is-enabled fa fa-clo_c0333a"))
+
+32
+00:01:33,377 --> 00:01:35,414
+89. click(findTestObject("Object Repository/Page_MHK MarketProminence Sandbox/input_Contains_copyFrom-selected-col-radio-0"))
+
+33
+00:01:35,423 --> 00:01:36,506
+93. click(findTestObject("Object Repository/Page_MHK MarketProminence Sandbox/button_Copy"))
+
+34
+00:01:36,514 --> 00:01:36,516
+97. maximizeWindow()
+
+35
+00:01:36,526 --> 00:01:38,798
+101. verifyElementText(findTestObject("Object Repository/Page_MHK MarketProminence Sandbox/div_Programs Copied Successfully"), "Programs Copied Successfully")
+
+36
+00:01:38,804 --> 00:01:42,851
+105. click(findTestObject("Object Repository/Page_MHK MarketProminence Sandbox/span_Copy Programs - staff user_k-button-ic_e1b3d7"))
+
+37
+00:01:42,859 --> 00:01:45,248
+109. click(findTestObject("Object Repository/Page_MHK MarketProminence Sandbox/button_Add"))
+
+38
+00:01:45,255 --> 00:01:47,253
+113. setText(findTestObject("Object Repository/Page_MHK MarketProminence Sandbox/input_Primary_affiliation"), "staff user")
+
+39
+00:01:47,260 --> 00:01:48,919
+117. setText(findTestObject("Object Repository/Page_MHK MarketProminence Sandbox/input_Secondary_affiliation"), "user3")
+
+40
+00:01:48,926 --> 00:01:49,879
+121. click(findTestObject("Object Repository/Page_MHK MarketProminence Sandbox/input_KL0_assignedPrograms-SELECTED-row-1-col-0"))
+
+41
+00:01:49,886 --> 00:01:50,839
+125. click(findTestObject("Object Repository/Page_MHK MarketProminence Sandbox/input_M05_assignedPrograms-SELECTED-row-4-col-0"))
+
+42
+00:01:50,846 --> 00:01:51,708
+129. click(findTestObject("Object Repository/Page_MHK MarketProminence Sandbox/button_Save"))
+
+43
+00:01:51,716 --> 00:01:51,717
+133. maximizeWindow()
+
+44
+00:01:51,729 --> 00:01:54,335
+137. click(findTestObject("Object Repository/Page_MHK MarketProminence Sandbox/applyfrom"))
+
+45
+00:01:54,343 --> 00:01:56,550
+141. click(findTestObject("Object Repository/Page_MHK MarketProminence Sandbox/ApplytoCheckbox1"))
+
+46
+00:01:56,558 --> 00:01:57,606
+145. click(findTestObject("Object Repository/Page_MHK MarketProminence Sandbox/Applytocheckbox2"))
+
+47
+00:01:57,613 --> 00:01:58,510
+149. click(findTestObject("Object Repository/Page_MHK MarketProminence Sandbox/Apply"))
+
+48
+00:01:58,517 --> 00:02:05,206
+153. click(findTestObject("Object Repository/Page_MHK MarketProminence Sandbox/closeApplypopupwindow"))
+
+49
+00:02:05,212 --> 00:02:05,215
+157. a = 1
+
+50
+00:02:05,231 --> 00:02:05,233
+161. if (a == 5)
+
+51
+00:02:05,241 --> 00:02:07,733
+165. click(findTestObject("Object Repository/Page_MHK MarketProminence Sandbox/i_Voluntary Disenroll Reason(18)_fa fa-lg fa-table"))
+
+52
+00:02:07,740 --> 00:02:16,095
+169. click(findTestObject("Object Repository/Page_MHK MarketProminence Sandbox/span_SNP(1)_k-icon ng-tns-c68-17 k-i-expand"))
+
+53
+00:02:16,103 --> 00:02:17,081
+173. click(findTestObject("Object Repository/Page_MHK MarketProminence Sandbox/i_Contains_action-icon-is-enabled fa fa-fw _a6b016"))
+
+54
+00:02:17,087 --> 00:03:59,176
+177. getText(findTestObject("Object Repository/Page_MHK MarketProminence Sandbox/span_user2"), OPTIONAL)
+
+55
+00:03:59,183 --> 00:04:00,810
+181. click(findTestObject("Object Repository/Page_MHK MarketProminence Sandbox/i_Voluntary Disenroll Reason(18)_fa fa-lg f_9fce55"))
+
+56
+00:04:00,819 --> 00:04:06,200
+185. verifyElementText(findTestObject("Object Repository/Page_MHK MarketProminence Sandbox/span_Record  1"), "Record : 1")
+
+57
+00:04:06,207 --> 00:04:07,559
+189. click(findTestObject("Object Repository/Page_MHK MarketProminence Sandbox/i_Voluntary Disenroll Reason(18)_fa fa-lg f_5f7ad2"))
+
+58
+00:04:07,565 --> 00:04:14,567
+193. verifyElementText(findTestObject("Object Repository/Page_MHK MarketProminence Sandbox/span_Records  2"), "Records : 2")
+
+59
+00:04:14,573 --> 00:04:15,548
+197. click(findTestObject("Object Repository/Page_MHK MarketProminence Sandbox/i_Voluntary Disenroll Reason(18)_fa fa-lg fa-table"))
+
+60
+00:04:15,557 --> 00:04:18,428
+201. verifyElementText(findTestObject("Object Repository/Page_MHK MarketProminence Sandbox/span_Records  3"), "Records : 3")
+
+61
+00:04:18,434 --> 00:04:19,909
+205. mouseOver(findTestObject("Object Repository/Page_MHK MarketProminence Sandbox/span_Assigned Programs_k-icon k-i-file-exce_807b9d"), OPTIONAL)
+
+62
+00:04:19,915 --> 00:04:20,974
+209. mouseOver(findTestObject("Object Repository/Page_MHK MarketProminence Sandbox/span_Assigned Programs_k-icon k-i-file-pdf _669663"), OPTIONAL)
+
+63
+00:04:20,979 --> 00:04:20,980
+213. verifyElementText(findTestObject("Object Repository/Page_MHK MarketProminence Sandbox/span_Records  31"), "Records : 31")
+
+64
+00:04:20,995 --> 00:04:22,156
+217. click(findTestObject("Object Repository/Page_MHK MarketProminence Sandbox/i_Assigned Programs_fa fa-lg fa-table"))
+
+65
+00:04:22,200 --> 00:04:23,723
+221. click(findTestObject("Object Repository/Page_MHK MarketProminence Sandbox/i_Assigned Programs_fa fa-check-square fa-lg"))
+
+66
+00:04:23,727 --> 00:04:24,687
+225. getText(findTestObject("Object Repository/Page_MHK MarketProminence Sandbox/input_Contains_assignedPrograms-SELECTED-ro_1fd6e7"), OPTIONAL)
+

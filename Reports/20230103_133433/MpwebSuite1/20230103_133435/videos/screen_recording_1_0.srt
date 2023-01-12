@@ -1,0 +1,36 @@
+1
+00:00:01,909 --> 00:00:18,722
+1. openBrowser("")
+
+2
+00:00:18,788 --> 00:00:44,694
+5. navigateToUrl(url)
+
+3
+00:00:44,701 --> 00:00:48,143
+9. var = verifyElementText(findTestObject("Page_MarketProminence Authorization/h3_MarketProminence Login"), "MarketProminence Login", OPTIONAL)
+
+4
+00:00:48,151 --> 00:00:48,157
+13. if (var == true)
+
+5
+00:00:48,163 --> 00:00:50,766
+1. setText(findTestObject("Object Repository/Page_MarketProminence Authorization/input_Username_Username"), username)
+
+6
+00:00:50,773 --> 00:00:53,813
+5. click(findTestObject("Object Repository/Page_MarketProminence Authorization/div_Password"))
+
+7
+00:00:53,821 --> 00:00:58,795
+9. setText(findTestObject("Object Repository/Page_MarketProminence Authorization/input_Password_Password"), password)
+
+8
+00:00:58,801 --> 00:01:14,890
+13. click(findTestObject("Object Repository/Page_MarketProminence Authorization/button_Login"))
+
+9
+00:01:14,897 --> 00:01:14,911
+17. waitForPageLoad(30)
+

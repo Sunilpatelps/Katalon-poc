@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_G00065182648</name>
+   <tag></tag>
+   <elementGuidId>d243be58-d8e8-4542-ab53-73e8453ff2ed</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='ID'])[2]/following::div[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b4418f06-217d-4484-8567-6a6d5ed76a0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>data-container</value>
+      <webElementGuid>f7588ebd-ad4a-492d-a162-d92715d6f205</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>G00065182648</value>
+      <webElementGuid>e77e41a9-5d51-4174-a053-61cc2c2a0e42</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;ng-tns-0-4&quot;]/app-root[1]/div[@class=&quot;app-component-container&quot;]/div[@class=&quot;router-outlet-container&quot;]/setup-canvas[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;setup-canvas-container&quot;]/kendo-splitter[@class=&quot;splitter-container k-splitter k-splitter-flex k-splitter-horizontal&quot;]/kendo-splitter-pane[@class=&quot;k-pane k-scrollable&quot;]/div[@class=&quot;pane-content m-2px ng-star-inserted&quot;]/action-card[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;card-container&quot;]/custom-card[1]/div[@class=&quot;custom-card-container ng-star-inserted&quot;]/div[@class=&quot;custom-card-grid-form-container&quot;]/kendo-splitter[@class=&quot;splitter-container k-splitter k-splitter-flex k-splitter-vertical ng-star-inserted&quot;]/kendo-splitter-pane[@class=&quot;grid-container-splitter k-pane k-scrollable&quot;]/div[@class=&quot;custom-data-view-container ng-star-inserted&quot;]/custom-data-view[1]/div[@class=&quot;custom-data-view-container&quot;]/custom-data-view-editor[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;custom-data-view-editor-container ng-star-inserted&quot;]/mp-input-container[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;mp-input-container-wrapper wrapper-normal ng-star-inserted&quot;]/div[@class=&quot;input-container width-100-pct ng-star-inserted&quot;]/table[@class=&quot;table-input-container-wrapper&quot;]/tr[1]/td[1]/div[@class=&quot;input-switch-container&quot;]/mp-read-only-input[1]/div[@class=&quot;not-extended ng-star-inserted&quot;]/div[@class=&quot;data-container&quot;]</value>
+      <webElementGuid>c1badd05-6d42-49e0-86a7-421ce5784e59</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ID'])[2]/following::div[1]</value>
+      <webElementGuid>df3abe53-73fa-415c-a11b-890fd3753893</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Secondary'])[2]/following::div[9]</value>
+      <webElementGuid>b53266a5-7161-416d-a241-1d0f93674d54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Site'])[2]/preceding::div[2]</value>
+      <webElementGuid>f0ef300b-a9e0-4085-9cb8-86bf800c992a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mp-input-container[4]/div/div/table/tr/td/div/mp-read-only-input/div/div[2]</value>
+      <webElementGuid>2276af1f-ccf2-49e9-84b0-c75a8fb5c43a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'G00065182648' or . = 'G00065182648')]</value>
+      <webElementGuid>dd1eae1e-fdbf-4317-bcb6-12ead02639ff</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

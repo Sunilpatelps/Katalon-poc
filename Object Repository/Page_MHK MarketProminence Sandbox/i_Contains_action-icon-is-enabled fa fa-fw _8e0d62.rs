@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Contains_action-icon-is-enabled fa fa-fw _8e0d62</name>
+   <tag></tag>
+   <elementGuidId>fa12e99b-1b76-40b7-ac08-0eaf899ff41d</elementGuidId>
+   <imagePath></imagePath>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//td/i</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.action-icon-is-enabled.fa.fa-fw.fa-trash-o.toolbar-icon.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@title = 'Delete']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>24a39399-f616-4c73-bc0a-6a1840076bd0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>action-icon-is-enabled fa fa-fw fa-trash-o toolbar-icon ng-star-inserted</value>
+      <webElementGuid>99231a9f-1525-4185-9c2d-5f8dbfd60e94</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Delete</value>
+      <webElementGuid>90f88f98-e65d-45e9-b580-c4a2659631b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;k-grid20-r2c0&quot;)/i[@class=&quot;action-icon-is-enabled fa fa-fw fa-trash-o toolbar-icon ng-star-inserted&quot;]</value>
+      <webElementGuid>edb1133b-ca8b-4968-8884-0242bfc06ff7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//td[@id='k-grid20-r2c0']/i</value>
+      <webElementGuid>2921b739-f3fb-4776-a103-e45b35579484</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/i</value>
+      <webElementGuid>04b81905-1adb-4a4c-9ad0-1d0010b874f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//i[@title = 'Delete']</value>
+      <webElementGuid>6267575c-ffc4-4ed2-b383-57f8530dddc6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

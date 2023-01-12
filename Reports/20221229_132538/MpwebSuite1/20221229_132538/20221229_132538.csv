@@ -1,0 +1,14 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+MpwebSuite1,Chrome 108.0.0.0,,,2022-12-29 13:25:53,2022-12-29 13:26:56,1m - 3.027s,PASSED
+,,,,,,,
+Test Cases/LoginTestcase,Chrome 108.0.0.0,,,2022-12-29 13:25:53,2022-12-29 13:26:25,31.426s,PASSED
+"openBrowser("""")",Chrome 108.0.0.0,,,2022-12-29 13:25:54,2022-12-29 13:26:00,6.313s,PASSED
+navigateToUrl(url),Chrome 108.0.0.0,,,2022-12-29 13:26:00,2022-12-29 13:26:15,15.041s,PASSED
+"var = verifyTextPresent(""MarketProminence Login"", false, OPTIONAL)",Chrome 108.0.0.0,,,2022-12-29 13:26:15,2022-12-29 13:26:16,0.573s,PASSED
+if (var == true),Chrome 108.0.0.0,,,2022-12-29 13:26:16,2022-12-29 13:26:25,8.721s,PASSED
+,,,,,,,
+Test Cases/LoginTestcase,Chrome 108.0.0.0,,,2022-12-29 13:26:25,2022-12-29 13:26:56,30.736s,PASSED
+"openBrowser("""")",Chrome 108.0.0.0,,,2022-12-29 13:26:25,2022-12-29 13:26:28,3.422s,PASSED
+navigateToUrl(url),Chrome 108.0.0.0,,,2022-12-29 13:26:28,2022-12-29 13:26:43,14.884s,PASSED
+"var = verifyTextPresent(""MarketProminence Login"", false, OPTIONAL)",Chrome 108.0.0.0,,,2022-12-29 13:26:43,2022-12-29 13:26:44,0.451s,PASSED
+if (var == true),Chrome 108.0.0.0,,,2022-12-29 13:26:44,2022-12-29 13:26:56,11.945s,PASSED

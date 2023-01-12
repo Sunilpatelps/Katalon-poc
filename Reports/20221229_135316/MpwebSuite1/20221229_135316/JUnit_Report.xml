@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="MpwebSuite1" time="66.65" tests="2" failures="0" errors="0">
+   <testsuite name="MpwebSuite1" tests="2" failures="0" errors="0" time="66.65" skipped="0" timestamp="2022-12-29 13:53:33" hostname="sunil.patel - PS-LP-NOI-10126" id="Test Suites/MpwebSuite1">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\sunil.patel\\Katalon Studio\\Sample - Web API Tests\\Reports\\20221229_135316\\MpwebSuite1\\20221229_135316"/>
+         <property name="logFiles" value="C:\\Users\\sunil.patel\\Katalon Studio\\Sample - Web API Tests\\Reports\\20221229_135316\\MpwebSuite1\\20221229_135316\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="sunil.patel - PS-LP-NOI-10126"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.5.5.208"/>
+         <property name="browser" value="Chrome 108.0.0.0"/>
+         <property name="hostAddress" value="192.168.100.126"/>
+         <property name="sessionId" value="8146a0c99744a58cfec0396857ca83af"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/LoginTestcase" time="37.476" classname="Test Cases/LoginTestcase" status="PASSED">
+         <system-out><![CDATA[2022-12-29 13:53:34 - [TEST_CASE][PASSED] - Test Cases/LoginTestcase: Test Cases/LoginTestcase
+
+2022-12-29 13:53:35 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2022-12-29 13:53:36 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2022-12-29 13:53:36 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2022-12-29 13:53:44 - [MESSAGE][WARNING] - FFmpeg was not installed! Browser Recording will be disabled. Please follow this document to install FFmpeg first: https://docs.katalon.com/katalon-studio/docs/screenshots-videos.html#browser-based-recorder
+
+2022-12-29 13:53:44 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2022-12-29 13:53:44 - [TEST_STEP][PASSED] - navigateToUrl(url): Navigate to 'https://mpwebsandbox.mhkdevsandbox.com/' successfully
+
+2022-12-29 13:54:02 - [MESSAGE][PASSED] - Navigate to 'https://mpwebsandbox.mhkdevsandbox.com/' successfully
+
+2022-12-29 13:54:02 - [TEST_STEP][PASSED] - var = verifyTextPresent("MarketProminence Login", false, OPTIONAL): Text 'MarketProminence Login' is present on page 
+
+2022-12-29 13:54:03 - [MESSAGE][PASSED] - Text 'MarketProminence Login' is present on page 
+
+2022-12-29 13:54:03 - [TEST_STEP][PASSED] - if (var == true): Wait for page load successfully
+
+2022-12-29 13:54:03 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_MarketProminence Authorization/input_Username_Username"), username): Text 'DZCPS' is set on object 'Object Repository/Page_MarketProminence Authorization/input_Username_Username'
+
+2022-12-29 13:54:04 - [MESSAGE][PASSED] - Text 'DZCPS' is set on object 'Object Repository/Page_MarketProminence Authorization/input_Username_Username'
+
+2022-12-29 13:54:04 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_MarketProminence Authorization/div_Password")): Object: 'Object Repository/Page_MarketProminence Authorization/div_Password' is clicked on
+
+2022-12-29 13:54:05 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_MarketProminence Authorization/div_Password' is clicked on
+
+2022-12-29 13:54:05 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_MarketProminence Authorization/input_Password_Password"), password): Text 'mp0292' is set on object 'Object Repository/Page_MarketProminence Authorization/input_Password_Password'
+
+2022-12-29 13:54:05 - [MESSAGE][PASSED] - Text 'mp0292' is set on object 'Object Repository/Page_MarketProminence Authorization/input_Password_Password'
+
+2022-12-29 13:54:05 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_MarketProminence Authorization/button_Login")): Object: 'Object Repository/Page_MarketProminence Authorization/button_Login' is clicked on
+
+2022-12-29 13:54:11 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_MarketProminence Authorization/button_Login' is clicked on
+
+2022-12-29 13:54:11 - [TEST_STEP][PASSED] - waitForPageLoad(30): Wait for page load successfully
+
+2022-12-29 13:54:12 - [MESSAGE][PASSED] - Wait for page load successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/LoginTestcase" time="27.775" classname="Test Cases/LoginTestcase" status="PASSED">
+         <system-out><![CDATA[2022-12-29 13:54:12 - [TEST_CASE][PASSED] - Test Cases/LoginTestcase: Test Cases/LoginTestcase
+
+2022-12-29 13:54:12 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2022-12-29 13:54:12 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2022-12-29 13:54:13 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2022-12-29 13:54:13 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2022-12-29 13:54:16 - [MESSAGE][WARNING] - FFmpeg was not installed! Browser Recording will be disabled. Please follow this document to install FFmpeg first: https://docs.katalon.com/katalon-studio/docs/screenshots-videos.html#browser-based-recorder
+
+2022-12-29 13:54:16 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2022-12-29 13:54:16 - [TEST_STEP][PASSED] - navigateToUrl(url): Navigate to 'https://mpwebdemo.mhkdevsandbox.com' successfully
+
+2022-12-29 13:54:31 - [MESSAGE][PASSED] - Navigate to 'https://mpwebdemo.mhkdevsandbox.com' successfully
+
+2022-12-29 13:54:31 - [TEST_STEP][PASSED] - var = verifyTextPresent("MarketProminence Login", false, OPTIONAL): Text 'MarketProminence Login' is present on page 
+
+2022-12-29 13:54:31 - [MESSAGE][PASSED] - Text 'MarketProminence Login' is present on page 
+
+2022-12-29 13:54:31 - [TEST_STEP][PASSED] - if (var == true): Wait for page load successfully
+
+2022-12-29 13:54:31 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_MarketProminence Authorization/input_Username_Username"), username): Text 'DZCPS' is set on object 'Object Repository/Page_MarketProminence Authorization/input_Username_Username'
+
+2022-12-29 13:54:32 - [MESSAGE][PASSED] - Text 'DZCPS' is set on object 'Object Repository/Page_MarketProminence Authorization/input_Username_Username'
+
+2022-12-29 13:54:32 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_MarketProminence Authorization/div_Password")): Object: 'Object Repository/Page_MarketProminence Authorization/div_Password' is clicked on
+
+2022-12-29 13:54:32 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_MarketProminence Authorization/div_Password' is clicked on
+
+2022-12-29 13:54:32 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_MarketProminence Authorization/input_Password_Password"), password): Text 'mp0292' is set on object 'Object Repository/Page_MarketProminence Authorization/input_Password_Password'
+
+2022-12-29 13:54:34 - [MESSAGE][PASSED] - Text 'mp0292' is set on object 'Object Repository/Page_MarketProminence Authorization/input_Password_Password'
+
+2022-12-29 13:54:34 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_MarketProminence Authorization/button_Login")): Object: 'Object Repository/Page_MarketProminence Authorization/button_Login' is clicked on
+
+2022-12-29 13:54:40 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_MarketProminence Authorization/button_Login' is clicked on
+
+2022-12-29 13:54:40 - [TEST_STEP][PASSED] - waitForPageLoad(30): Wait for page load successfully
+
+2022-12-29 13:54:40 - [MESSAGE][PASSED] - Wait for page load successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2022-12-29 13:53:33 - [TEST_SUITE][PASSED] - MpwebSuite1: Test Cases/LoginTestcase]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

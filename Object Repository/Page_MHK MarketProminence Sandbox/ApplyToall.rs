@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ApplyToall</name>
+   <tag></tag>
+   <elementGuidId>f53f5bb3-a477-4866-b4be-361bfe667355</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;mpweb-setup-setupaffiliation-setupaffiliation-full-editable-grid-applyto-grid&quot;]/div/div/div/table/thead/tr[1]/th[1]/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;mpweb-setup-setupaffiliation-setupaffiliation-full-editable-grid-applyto-grid&quot;]/div/div/div/table/thead/tr[1]/th[1]/input</value>
+      <webElementGuid>487bbbcb-a3c6-48bd-a951-955555039286</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Assigned Programs_fa fa-lg fa-square-o</name>
+   <tag></tag>
+   <elementGuidId>8bd35876-d416-4fc8-bebb-45db60e9df4c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-lg.fa-square-o</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//kendo-grid[@id='mpweb-setup-setupaffiliation-full-editable-grid-assignedprograms-grid']/kendo-grid-toolbar/div[2]/a[3]/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>9dbf2c23-b149-4424-ac4c-e1a01ba2d4df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-lg fa-square-o</value>
+      <webElementGuid>9aff749e-aa49-42d5-ab88-e34184ee2e1e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mpweb-setup-setupaffiliation-full-editable-grid-assignedprograms-grid&quot;)/kendo-grid-toolbar[@class=&quot;k-toolbar k-grid-toolbar ng-star-inserted&quot;]/div[@class=&quot;tool-bar-item-container ng-star-inserted&quot;]/a[@class=&quot;toolbar-icon ng-star-inserted&quot;]/i[@class=&quot;fa fa-lg fa-square-o&quot;]</value>
+      <webElementGuid>5e30c70e-8c81-406b-860f-3e48b1cd8662</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//kendo-grid[@id='mpweb-setup-setupaffiliation-full-editable-grid-assignedprograms-grid']/kendo-grid-toolbar/div[2]/a[3]/i</value>
+      <webElementGuid>dc4f9d8d-dd78-4b17-8a28-a1be5275aa15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/kendo-grid/kendo-grid-toolbar/div[2]/a[3]/i</value>
+      <webElementGuid>7a2264b8-c2da-4038-830c-de9a1364a626</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

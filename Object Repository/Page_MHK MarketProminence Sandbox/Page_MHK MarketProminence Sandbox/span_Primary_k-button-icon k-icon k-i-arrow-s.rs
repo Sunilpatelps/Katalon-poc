@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Primary_k-button-icon k-icon k-i-arrow-s</name>
+   <tag></tag>
+   <elementGuidId>25e104f0-0604-4986-8c8b-04c38a353a4f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//kendo-combobox[@id='mpweb-setup-setupaction-combo-box-primary']/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#mpweb-setup-setupaction-combo-box-primary > button.k-input-button.k-button.k-icon-button.k-button-md.k-button-solid.k-button-solid-base > span.k-button-icon.k-icon.k-i-arrow-s</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a6b77f37-3cad-486e-913f-dc4146dce060</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-button-icon k-icon k-i-arrow-s</value>
+      <webElementGuid>72ca8ef1-a710-4a2f-a814-cbb506103b4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mpweb-setup-setupaction-combo-box-primary&quot;)/button[@class=&quot;k-input-button k-button k-icon-button k-button-md k-button-solid k-button-solid-base&quot;]/span[@class=&quot;k-button-icon k-icon k-i-arrow-s&quot;]</value>
+      <webElementGuid>73b8e434-8bdc-4d88-9288-1b456b4b24fd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//kendo-combobox[@id='mpweb-setup-setupaction-combo-box-primary']/button/span</value>
+      <webElementGuid>9311b47a-a4c1-40b6-94ae-72d9e8f7f201</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//kendo-combobox/button/span</value>
+      <webElementGuid>ddc288fd-a798-4396-b6ef-b9e863251485</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

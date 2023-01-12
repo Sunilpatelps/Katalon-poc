@@ -1,0 +1,14 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_MHK MarketProminence Sandbox/span_user2",
+      "brokenLocator": "//kendo-treeview[@id\u003d\u0027mpweb-setup-options-list\u0027]/ul/li/ul/li[29]/ul/li[2]/div/span/span/div/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027user1\u0027])[1]/following::span[3]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20230103_133433/MpwebSuite1/20230103_133435/Object Repository/Page_MHK MarketProminence Sandbox/span_user2_neighbor.png"
+    }
+  ]
+}

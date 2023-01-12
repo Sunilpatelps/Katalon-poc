@@ -1,0 +1,10 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+web-service-tests - All Test Cases,,,,2022-12-29 11:47:08,2022-12-29 11:50:20,3m - 11.238s,FAILED
+,,,,,,,
+Test Cases/Create a new user,,,,2022-12-29 11:47:10,2022-12-29 11:49:52,2m - 41.751s,FAILED
+"openBrowser("""")",,,,2022-12-29 11:47:14,2022-12-29 11:49:52,2m - 37.957s,FAILED
+closeBrowser(),,,,2022-12-29 11:49:52,2022-12-29 11:49:52,0.148s,PASSED
+,,,,,,,
+Test Cases/Find user by ID,,,,2022-12-29 11:49:52,2022-12-29 11:50:20,27.546s,PASSED
+"id = sample.Common.createNewUser(age, username, password, gender, 200)",,,,2022-12-29 11:50:00,2022-12-29 11:50:15,15.676s,PASSED
+"sample.Common.findUserById(id, age, username, password, gender, 200)",,,,2022-12-29 11:50:15,2022-12-29 11:50:20,4.288s,PASSED

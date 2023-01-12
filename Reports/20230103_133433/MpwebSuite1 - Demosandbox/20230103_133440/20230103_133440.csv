@@ -1,0 +1,16 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+MpwebSuite1 - Demosandbox,Chrome 108.0.0.0,,,2023-01-03 13:35:45,2023-01-03 13:39:03,3m - 18.552s,PASSED
+,,,,,,,
+Test Cases/LoginTestcase,Chrome 108.0.0.0,,,2023-01-03 13:35:50,2023-01-03 13:38:16,2m - 26.537s,PASSED
+"openBrowser("""")",Chrome 108.0.0.0,,,2023-01-03 13:35:59,2023-01-03 13:36:42,43.219s,PASSED
+navigateToUrl(url),Chrome 108.0.0.0,,,2023-01-03 13:36:42,2023-01-03 13:37:09,27.351s,PASSED
+"var = verifyElementText(findTestObject(""Page_MarketProminence Authorization/h3_MarketProminence Login""), ""MarketProminence Login"", OPTIONAL)",Chrome 108.0.0.0,,,2023-01-03 13:37:09,2023-01-03 13:37:25,15.475s,PASSED
+if (var == true),Chrome 108.0.0.0,,,2023-01-03 13:37:25,2023-01-03 13:38:13,48.680s,PASSED
+Video,Chrome 108.0.0.0,,,2023-01-03 13:38:16,2023-01-03 13:38:16,0.003s,PASSED
+,,,,,,,
+Test Cases/LoginTestcase,Chrome 108.0.0.0,,,2023-01-03 13:38:17,2023-01-03 13:39:03,46.452s,PASSED
+"openBrowser("""")",Chrome 108.0.0.0,,,2023-01-03 13:38:17,2023-01-03 13:38:27,9.946s,PASSED
+navigateToUrl(url),Chrome 108.0.0.0,,,2023-01-03 13:38:27,2023-01-03 13:38:46,19.641s,PASSED
+"var = verifyElementText(findTestObject(""Page_MarketProminence Authorization/h3_MarketProminence Login""), ""MarketProminence Login"", OPTIONAL)",Chrome 108.0.0.0,,,2023-01-03 13:38:46,2023-01-03 13:38:47,0.999s,PASSED
+if (var == true),Chrome 108.0.0.0,,,2023-01-03 13:38:47,2023-01-03 13:39:01,13.495s,PASSED
+Video,Chrome 108.0.0.0,,,2023-01-03 13:39:03,2023-01-03 13:39:03,0.004s,PASSED

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>closeApplypopupwindow</name>
+   <tag></tag>
+   <elementGuidId>983a6078-c1ea-4238-a35b-0f08bb667536</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/app-root/kendo-window/kendo-window-titlebar/div[2]/button[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/app-root/kendo-window/kendo-window-titlebar/div[2]/button[4]</value>
+      <webElementGuid>5382d9e1-977b-429f-8073-422493996659</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Product_k-input-value-text</name>
+   <tag></tag>
+   <elementGuidId>511510e0-a551-4dc7-bbd7-06e3d96db4e1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='277e9f26-8bc9-4b18-a8e1-aafcda3b012d']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#277e9f26-8bc9-4b18-a8e1-aafcda3b012d > span.k-input-value-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>83e6bce2-d6dc-47b0-b9e9-254b3a5c4ff6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-input-value-text</value>
+      <webElementGuid>683a9780-0405-443c-8a36-6e1bfb3e0e88</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;277e9f26-8bc9-4b18-a8e1-aafcda3b012d&quot;)/span[@class=&quot;k-input-value-text&quot;]</value>
+      <webElementGuid>61fd1451-a329-4dc9-a9dc-fd4a39634458</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='277e9f26-8bc9-4b18-a8e1-aafcda3b012d']/span</value>
+      <webElementGuid>57d33e61-970e-4d4b-9338-1c003c11f279</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Product'])[2]/following::span[2]</value>
+      <webElementGuid>a074975b-63bf-477e-9da2-1048b837dac7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EP03-1'])[209]/following::span[3]</value>
+      <webElementGuid>d4ffb1dc-e0e4-42cf-8053-02f104581a48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Created Date'])[1]/preceding::span[2]</value>
+      <webElementGuid>5542cac1-798b-4e04-883e-58edeed667e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Created By'])[2]/preceding::span[2]</value>
+      <webElementGuid>8781ac3f-5c6d-4f82-bde0-f75102bf2076</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mp-input-container[6]/div/div/table/tr/td/div/mp-drop-down/div/table/tr[2]/td/div/table/tr/td/kendo-dropdownlist/span/span</value>
+      <webElementGuid>24e7d0ce-87f0-42af-a623-415f85cf1fdd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

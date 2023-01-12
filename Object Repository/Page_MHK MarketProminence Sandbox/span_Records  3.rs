@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Records  3</name>
+   <tag></tag>
+   <elementGuidId>fa54713c-3ac3-4c8a-a548-b679900eb555</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.badge</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//kendo-grid[@id='mpweb-setup-setupaffiliation-grid']/kendo-grid-toolbar/div[3]/badge/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c36b6076-e2ec-400f-87e2-ab7a64912ea9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>badge</value>
+      <webElementGuid>6d280a7a-f46d-4d12-adb7-8494de8db698</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>There are 3 records displayed in the grid below.</value>
+      <webElementGuid>f9e891b4-af02-4ca6-9a4c-1a95d49e39d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Records : 3</value>
+      <webElementGuid>cd28520f-432a-4e3c-b5ac-9f773e1c625b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mpweb-setup-setupaffiliation-grid&quot;)/kendo-grid-toolbar[@class=&quot;k-toolbar k-grid-toolbar ng-star-inserted&quot;]/div[@class=&quot;toolbar-icon pos-abs-right-5px align-top mr-3 ng-star-inserted&quot;]/badge[1]/span[@class=&quot;badge&quot;]</value>
+      <webElementGuid>8b034e79-7289-46f7-bd24-96fe05c381de</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//kendo-grid[@id='mpweb-setup-setupaffiliation-grid']/kendo-grid-toolbar/div[3]/badge/span</value>
+      <webElementGuid>ce090475-393f-4c7e-83a3-ecf4213cdf1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Primary'])[1]/preceding::span[2]</value>
+      <webElementGuid>faa948e9-c2fa-4b9e-b9c0-32dadf682607</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Secondary'])[1]/preceding::span[9]</value>
+      <webElementGuid>48f58699-547c-4ddc-9588-9cbae2aba783</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Records : 3']/parent::*</value>
+      <webElementGuid>fae3daec-328e-4ed2-b51b-17366b53a610</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//badge/span</value>
+      <webElementGuid>aa1c2e1e-86ce-4dad-b88c-d0b6841e5b68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@title = 'There are 3 records displayed in the grid below.' and (text() = 'Records : 3' or . = 'Records : 3')]</value>
+      <webElementGuid>abcade49-76ab-4df7-8ac1-6eb926dbbc05</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

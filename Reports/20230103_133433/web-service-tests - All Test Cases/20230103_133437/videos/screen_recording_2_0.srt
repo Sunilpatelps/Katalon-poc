@@ -1,0 +1,64 @@
+1
+00:00:09,521 --> 00:00:36,912
+1. id = sample.Common.createNewUser(age, username, password, gender, 200)
+
+2
+00:00:37,054 --> 00:00:37,063
+1. request = getInstance().getCurrentRequest()
+
+3
+00:00:37,121 --> 00:00:37,128
+5. response = getInstance().getCurrentResponse()
+
+4
+00:00:37,235 --> 00:00:37,410
+9. assert response.getStatusCode() == 200
+
+5
+00:00:37,436 --> 00:00:38,353
+13. verifyElementPropertyValue(response, "age", 25)
+
+6
+00:00:38,358 --> 00:00:38,926
+17. verifyElementPropertyValue(response, "username", "mimi")
+
+7
+00:00:38,936 --> 00:00:39,369
+21. verifyElementPropertyValue(response, "password", "123456789")
+
+8
+00:00:39,401 --> 00:00:40,919
+25. verifyElementPropertyValue(response, "gender", "MALE")
+
+9
+00:00:40,926 --> 00:00:48,407
+5. sample.Common.findUserById(id, age, username, password, gender, 200)
+
+10
+00:00:48,417 --> 00:00:48,419
+1. request = getInstance().getCurrentRequest()
+
+11
+00:00:48,428 --> 00:00:48,432
+5. response = getInstance().getCurrentResponse()
+
+12
+00:00:48,460 --> 00:00:48,468
+9. assert response.getStatusCode() == 200
+
+13
+00:00:48,496 --> 00:00:48,835
+13. verifyElementPropertyValue(response, "age", 25)
+
+14
+00:00:48,847 --> 00:00:49,231
+17. verifyElementPropertyValue(response, "username", "mimi")
+
+15
+00:00:49,241 --> 00:00:49,493
+21. verifyElementPropertyValue(response, "password", "123456789")
+
+16
+00:00:49,502 --> 00:00:50,007
+25. verifyElementPropertyValue(response, "gender", "MALE")
+

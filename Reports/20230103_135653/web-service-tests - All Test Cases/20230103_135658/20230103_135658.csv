@@ -1,0 +1,12 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+web-service-tests - All Test Cases,Chrome 108.0.5359.125,,,2023-01-03 13:57:41,2023-01-03 13:59:10,1m - 28.696s,PASSED
+,,,,,,,
+Test Cases/Create a new user,Chrome 108.0.5359.125,,,2023-01-03 13:57:43,2023-01-03 13:58:22,38.253s,PASSED
+"openBrowser("""")",Chrome 108.0.5359.125,,,2023-01-03 13:57:49,2023-01-03 13:58:17,28.663s,PASSED
+closeBrowser(),Chrome 108.0.5359.125,,,2023-01-03 13:58:17,2023-01-03 13:58:19,2.045s,PASSED
+Video,Chrome 108.0.5359.125,,,2023-01-03 13:58:22,2023-01-03 13:58:22,0.005s,PASSED
+,,,,,,,
+Test Cases/Find user by ID,Chrome 108.0.5359.125,,,2023-01-03 13:58:22,2023-01-03 13:59:10,48.164s,PASSED
+"id = sample.Common.createNewUser(age, username, password, gender, 200)",Chrome 108.0.5359.125,,,2023-01-03 13:58:33,2023-01-03 13:59:01,28.432s,PASSED
+"sample.Common.findUserById(id, age, username, password, gender, 200)",Chrome 108.0.5359.125,,,2023-01-03 13:59:01,2023-01-03 13:59:08,6.422s,PASSED
+Video,Chrome 108.0.5359.125,,,2023-01-03 13:59:10,2023-01-03 13:59:10,0.003s,PASSED
